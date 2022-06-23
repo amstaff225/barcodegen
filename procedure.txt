@@ -1,0 +1,32 @@
+desactiver windows defender
+
+dans le menu demarrer , saisisser windows defender 
+
+puis desactivert
+
+
+
+https://support.microsoft.com/fr-fr/windows/d%C3%A9sactivez-la-protection-antivirus-defender-dans-s%C3%A9curit%C3%A9-windows-99e6004f-c54c-8509-773c-a4d776b77960
+------------------------------------------------------------------
+
+
+Désactivez la protection antivirus Defender dans Sécurité Windows
+Security Windows 11 Windows 10
+
+
+
+Suivez ces étapes pour désactiver temporairement la protection antivirus en temps réel Microsoft Defender dans Sécurité Windows. Toutefois, n’oubliez pas que dans ce cas, votre appareil sera vulnérable aux menaces.
+
+    Sélectionnez Démarrer et tapez « Sécurité Windows » pour rechercher cette application.
+
+    Sélectionnez l’Sécurité Windows dans les résultats de recherche, sélectionnez Virus et protection contre & menaces, puis sous Paramètres de protection contre & virus, sélectionnez Gérer les paramètres.
+
+    Placez le commutateur Protection en temps réel sur Désactivé. Notez que les analyses planifiées continueront de s’exécuter. Toutefois, les fichiers qui sont téléchargés ou installés ne seront pas analysés avant la prochaine analyse programmée.
+
+Remarques : 
+
+    Pour exclure un seul fichier ou dossier de l’analyse antivirus, vous pouvez le faire en ajoutant une exclusion. Cette action est plus sûre que la non-totalité de la protection antivirus. Voir Ajouter une exclusion à Sécurité Windows.
+
+    Si vous installez un antivirus non-Microsoft compatible, l’antivirus Microsoft Defender se désactivera automatiquement.
+
+    Si la protection contre les falsifications est désactivée, vous devez désactiver la protection contre les falsifications avant de pouvoir désactiver la protection en temps réel.
